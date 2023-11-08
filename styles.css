@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+#opportunities-list {
+    margin: 20px;
+}
+
+#add-opportunity-form {
+    margin: 20px;
+}
